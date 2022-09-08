@@ -4,8 +4,6 @@
  Analisis de algoritmos
  Grupo: 3CV11
  Profesor: Benjamín Luna Benoso
- Alumno Hernández Ramírez Alan
- 		Ortega Flores Marco Antonio
  Práctica No. 2
  @@@@@ Determinacion experimental de la complejidad temporal de un algoritmo @@@@@
 */
